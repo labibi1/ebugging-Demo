@@ -6,7 +6,7 @@ on:
   push:
 
 env:
-  USER_1: "foo-user"
+  USER_1: "foo--user"
   USER_2: "bar-user"
 
 
